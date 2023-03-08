@@ -2066,8 +2066,8 @@ function dex()
 			break;
 			
 		case "4.90":
-			if(document.getElementById('dex').checked===true){loadcex_490();}//alert("calling loaddex_490");
-			else {loadcex_490();}
+			if(document.getElementById('dex').checked===true){loadcex_489();}//alert("calling loaddex_489");
+			else {loadcex_489();}
 			disable_trigger();
 			break;
 			
