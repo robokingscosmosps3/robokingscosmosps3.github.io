@@ -2456,10 +2456,6 @@ function ps3chk(){
 					loadcex_489();
 					break;
 					
-				case fwCompat[31]:
-					//alert(msgHFW);
-					loadcex_490();
-					break;
 				default:
 					alert('Your PS3 is not on FW 4.81+! Your current running FW version is ' + fwVersion + ', which is not compatible with PS3Xploit Tools 3.0. All features have been disabled');
 					disable_all();
